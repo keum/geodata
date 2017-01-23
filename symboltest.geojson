@@ -1,0 +1,29 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "FIRS_TAG":"WW*MATTHEWS.MATTHEWS",
+            "FACILITY_T":"18",
+            "Longitude":-122.27596829,
+            "Latitude":47.69640625,
+            "FIRS_TAG_1":"WW*MATTHEWS.MATTHEWS",
+            "LOWER_CASE":"Matthews Park PS",
+            "Address":"9310 Sand Pt Way NE",
+            "City_State":"Seattle, WA 98115",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#0000CD"
+
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -122.27596829374856,
+               47.696406252298168
+            ]
+         }
+      }   
+   ]      
+}
